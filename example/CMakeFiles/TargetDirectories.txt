@@ -1,0 +1,1 @@
+/home/yafei/workspace_for_github/clustering/example/CMakeFiles/example.dir

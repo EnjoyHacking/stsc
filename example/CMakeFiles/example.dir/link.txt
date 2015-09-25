@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g -DNDEBUG    CMakeFiles/example.dir/example.cpp.o  -o example  -L/home/yafei/workspace_for_github/clustering/example/../build/lib -rdynamic -lclustering -Wl,-rpath,/home/yafei/workspace_for_github/clustering/example/../build/lib 

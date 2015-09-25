@@ -1,0 +1,5 @@
+/usr/local/lib64/libclustering.so
+/usr/local/include/clustering/Kmeans.h
+/usr/local/include/clustering/SpectralClustering.h
+/usr/local/include/clustering/Evrot.h
+/usr/local/include/clustering/ClusterRotate.h
